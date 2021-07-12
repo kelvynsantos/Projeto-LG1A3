@@ -6,18 +6,18 @@
   <p align="justify">Codificar um aplicativo, em JAVA, para realizar reservas de passagens aéreas.</p>  
  
 ### Menu Principal  
-1.Parametros do Sistema 
-2.Reserva de Passsagens 
-3.Sair
+1. Parametros do Sistema 
+2. Reserva de Passsagens 
+3. Sair
 ### Parametros do SIstema  
-1.Cadastrar Aeronave 
-2.Cadastrar Voo 
-3.Voltar 
+1. Cadastrar Aeronave 
+2. Cadastrar Voo 
+3. Voltar 
 ### Reserva de Passagens 
-1.Fazer reserva
-2.Consultar lugares vazios 
-3.Consultar reservas realizadas 
-4.Voltar
+1. Fazer reserva
+2. Consultar lugares vazios 
+3. Consultar reservas realizadas 
+4. Voltar
                     
                      
  
